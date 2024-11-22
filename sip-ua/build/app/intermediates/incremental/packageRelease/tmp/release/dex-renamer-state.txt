@@ -1,0 +1,4 @@
+#Fri Nov 22 21:01:47 CET 2024
+base.0=/Users/yassineouledelbakri/Desktop/S9/IOT_SIP/dart-sip-ua/example/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
